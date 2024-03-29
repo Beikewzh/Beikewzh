@@ -75,8 +75,6 @@
 
 </p>
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Beikewzh/Beikewzh/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
