@@ -11,16 +11,12 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<<<<<<< HEAD
 <picture>
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
 </picture>
-=======
-<picture> <img align="right" src="https://github.com/Beikewzh/Beikewzh/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
->>>>>>> 2c2ce6b6a5678768a1b547efca017bd48defd546
 
 <br>
 
