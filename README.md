@@ -20,11 +20,15 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Hello, and welcome to my GitHub profile! My name is Zihan Wang, and I am a Machine learning researcher and software development engineer. 
+
+- Currently, I am pursuing a Master's degree in McGill University, I also have an affiliation with MILA Quebec.
+
+- My particular interest lies in the area of continual learning, especially when integrated with various applications and models. I am eager to deepen and broaden my understanding further.
+
+- I am always open to new ideas and opportunities to collaborate with other passionate researcher. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:zihan.wang@mila.quebec">zihan.wang@mila.quebec</a>
+
+- Thank you for visiting my profile, and I look forward to connecting with you!
 
 <br><br>
 
