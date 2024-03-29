@@ -6,9 +6,6 @@
 </p>
 
 
-
-
-
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -74,8 +71,6 @@
     ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-    ![Seaborn](https://img.shields.io/badge/Seaborn-%23F6D55C.svg?style=for-the-badge&logo=seaborn&logoColor=black)
-
 
 
 </p>
@@ -91,7 +86,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/zihan-wang-2919b2261" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  zihan.wang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
