@@ -91,13 +91,13 @@
 <br>
 
 <li>
-    <a href="https://scholar.google.com/citations?user=YourGoogleScholarID" target="_blank">
+    <a href="https://scholar.google.ca/citations?user=iIc-J-oAAAAJ&hl=en&authuser=1" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" style="margin-bottom: 5px;"/>
     </a>
 </li>
 <br>
 <li>
-    <a href="http://YourWebsite.com" target="_blank">
+    <a href="https://beikewzh.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Personal%20Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" style="margin-bottom: 5px;"/>
     </a>
 </li>
